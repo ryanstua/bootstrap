@@ -1,0 +1,5 @@
+So my issue is that on my desktop i've built a responsive website using Bootstrap 3. When I resize the page on desktop everything works just the way I want it to. 
+ 
+When I copy the files to my mobile, extract the zip and launch the index.html, again, everything looks the way it should. However, the Navbar toggle button when touched doesn't respond (doesn't expand the menu for the nav links), my modal links don't work and the Accordion links don't work either. The page seems to recognise that I am touching my screen on the links but there is no action. 
+ 
+Any help would be appreciated 
